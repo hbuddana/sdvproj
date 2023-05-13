@@ -73,6 +73,10 @@ Here are some of the insights we obtained:
 - Ad campaigns targeting specific interests such as 'Sports', 'Travel', and 'Fashion' show a higher conversion rate.
 - There is a positive correlation between the amount spent on ads and the number of clicks received.
 
+## Deployed Web Application
+![Screenshot 1](https://github.com/hbuddana/sdvproj/blob/main/images/Picture1.png)
+![Screenshot 2](https://github.com/hbuddana/sdvproj/blob/main/images/Picture2.png)
+
 
 
 
