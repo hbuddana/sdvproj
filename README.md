@@ -36,7 +36,7 @@ The project falls under the domain of digital marketing, which involves the use 
 
 ## Workflow Diagram
 
-![Workflow Diagram](workflow_diagram.png)
+![Workflow Diagram](Flow.png)
 
 ## Related Work
 
