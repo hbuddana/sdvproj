@@ -36,7 +36,7 @@ The project falls under the domain of digital marketing, which involves the use 
 
 ## Workflow Diagram
 
-![Workflow Diagram](Flow.png)
+![Workflow Diagram](https://github.com/hbuddana/sdvproj/blob/main/images/Flow.PNG)
 
 ## Related Work
 
