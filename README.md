@@ -1,4 +1,4 @@
-# sdvproj
+# Scientific Data Vizualization Project
 
 https://hbuddana-sdvproj-app-d9bhfj.streamlit.app
 
